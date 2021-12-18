@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.gs": "javascript"
+  },
+  "es6-css-minify.minifyOnSave": "no"
+}
